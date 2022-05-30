@@ -6,6 +6,12 @@ body {
   padding: 0;
 }
 
+#main {
+  display: flexbox;
+  flex-direction: row;
+  align-items: center;
+}
+
 #header {
   display: flex;
   font-size: medium;
