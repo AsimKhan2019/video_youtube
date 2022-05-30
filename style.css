@@ -9,7 +9,6 @@ body {
 #main {
   display: flexbox;
   flex-direction: row;
-  display: block;
   align-items: center;
 }
 
